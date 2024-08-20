@@ -1,0 +1,2 @@
+# vj_python_django_crud_web_application
+vj_python_django_crud_web_application
